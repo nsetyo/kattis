@@ -1,0 +1,17 @@
+[workspace]
+
+members = [
+  "001_velkomin",
+  "002_flatbokuveisla",
+  "003_ovissa",
+  "004_vidsnuningur",
+  "005_millifaersla",
+  "006_reduplikation",
+  "007_twostones",
+  "008_autori",
+  "009_quadrant",
+  "010_addtwonumbers",
+  "011_metronome",
+  "012_isyavowel",
+]
+resolver = "2"
